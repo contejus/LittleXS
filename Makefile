@@ -6,7 +6,7 @@ TWEAK_NAME = LittleXS
 LittleXS_FILES = Tweak.xm
 LittleXS_LIBRARIES = MobileGestalt
 LittleXS_CFLAGS = -fobjc-arc
-ARCHS = arm64 arm64e
+ARCHS = arm64
 
 include $(THEOS_MAKE_PATH)/tweak.mk
 

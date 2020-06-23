@@ -1,6 +1,6 @@
 include $(THEOS)/makefiles/common.mk
 
-ARCHS = arm64 arm64e
+ARCHS = arm64
 
 BUNDLE_NAME = littlexsprefs
 littlexsprefs_FILES = LXSRootListController.m
